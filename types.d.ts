@@ -1,11 +1,11 @@
-// config type (injected into HTML)
+stephanie// config type (injected into HTML)
 declare var config: import('@playcanvas/editor-api').EditorBlankConfig & 
     import('@playcanvas/editor-api').EditorConfig & 
     import('@playcanvas/editor-api').CodeEditorConfig &
     import('@playcanvas/editor-api').LaunchConfig;
 
 // editor
-declare var editor: import('./src/common/editor').Editor<import('./src/common/editor').EditorMethods>;
+declare va stephluvsmia05@gmail.comr editor: import('./src/common/editor').Editor<import('./src/common/editor').EditorMethods>;
 
 // log
 declare var log: {
